@@ -35,10 +35,33 @@ Our group consists of four members, Yong Lin, Allen Chen, Vu Pham, and Sam Wang.
 
 Yong's primary responsibilities will be:
 
-- Learning Django and implementing user authentication
+- Learning Python/Django and implementing user authentication
+- Researching Google Places API and  integrating retrieved data with the app database
+- Architecting a database model that fits the app's needs
 
+Allen's primary responsiblities will be:
+
+- Learning Python/Django and implementing user authentication
+- Architecting a database model that fits the app's needs
+- Researching Google Places API
+
+Vu's Primary responsiblities will be:
+
+- Learning React Native and the Ignite architecture
+- Design user interface and set up style guide to ensure cohesive color scheme and font
+- Building authentication page with styling and functioning redux cycles
+- Building landing and search results page
+
+Sam's Primary responsiblities will be:
+
+- Learning React Native and the Ignite architecture
+- Understanding the Google Places API and integrating response data with restaurant form
+- Building restaurant form page
+- Building restaurant show page and integrate Google Maps API
 
 ### Implementation Timeline
+
+**Day 1**:
 
 ### Future Features
 
