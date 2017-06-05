@@ -2,6 +2,10 @@
 
 ### Background
 
+This app helps people with Celiac’s disease find restaurants they trust.
+
+Celiac’s disease is a serious autoimmune disease, for which a 100% gluten-free diet is the only existing treatment. It can be time-consuming and expensive process to experiment with restaurants. We want to create a an app for people with celiac’s based on a thumbs-up thumbs-down system to help others determine if the establishment is safe for those with Celiac’s.
+
 ### Functionality & MVP
 
 Using this app, users will be able to:
@@ -61,31 +65,37 @@ Sam's Primary responsiblities will be:
 
 ### Implementation Timeline
 
-**Day 1**: By the end of the day, we will have:
+**Day 1**: Set up the framework upon which to build the app. By the end of the day, we will have:
+- Configured authentication on Django framework for user creation and session management (Yong)
+- Research Google Maps/Places API for implementation (Allen)
 - Two styled authentication pages without associated Redux cycle (Vu)
 - Become familiar with Google Places API and start working on a landing page (Sam)
 
-**Day 2**: By the end of the day, we will have:
+**Day 2**: Finish authentication and prepare for restaurant search. By the end of the day, we will have:
 
+- Prepared the backend for new restaurant creation and retrieval of database restaurants (Allen)
+- Format JSON response to be received by the frontend for views and create restaurant seed data (Yong)
 - A functioning Redux cycle for authentication (Vu)
 - Landing page with associated Redux cycle (Sam)
 
-**Day 3**: By the end of the day, we will have:
+**Day 3**: Finish restaurant search. Get started on likes and dislikes. By the end of the day, we will have:
 
+- Create joins table for likes and dislikes (Yong)
+- Compile data on businesses offering gluten-free options (Allen)
 - Search results page with associated Redux cycle (Sam)
 - Create one styled restaurant form page without associated Redux cycle (Vu)
 
-**Day 4**: By the end of the day, we will have:
+**Day 4**: Finish restaurant creation and show page.By the end of the day, we will have:
 
 - A detailed README (Allen)
 - Get started on single page website that explains the purpose of the app and links to download (Yong)
 - A functioning Redux cycle for adding new restaurants (Vu)
 - A styled restaurant show page and associated Redux cycle (Sam)
 
-**Day 5**: By the end of the day, we will have:
+**Day 5**: Create website to demo project. By the end of the day, we will have:
 
 - Finish making website (Yong)
-- Add gifs and screenshots to README (Allen)
+- Add gifs and screenshots to README, seed database (Allen)
 - Add emulator to demo app (Sam)
 - Finish styling any pages (Vu)
 
