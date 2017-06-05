@@ -24,7 +24,7 @@ Login
 
 Sign up
 
-![signup](/docs/wireframes/2.signup.png)
+![signup](/docs/wireframes/2.signUp.png)
 
 Home View
 
