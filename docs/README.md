@@ -12,9 +12,9 @@ Using this app, users will be able to:
 
 - [ ] Create new account, login, guest/demo login (user authentication)
 - [ ] See nearby gluten free restaurants using geolocation
-- [ ] Search for restaurants and contact via phone/text
+- [ ] Search for restaurants
 - [ ] Add restaurants to database
-- [ ] Restaurant rating (thumbs up/ thumbs down)
+- [ ] Restaurant rating (thumbs up/ thumbs down) via swiping
 
 ### Wireframes
 
@@ -126,6 +126,7 @@ Sam's Primary responsiblities will be:
 ### Future Features
 
 - [ ] Restaurant reviews
+- [ ] Contact via phone/text
 - [ ] Map view on search results page
 - [ ] User profile for favorites list
 - [ ] Learn user preferences and offer recommendations (explore restaurant)
