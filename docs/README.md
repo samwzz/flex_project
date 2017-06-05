@@ -18,6 +18,30 @@ Using this app, users will be able to:
 
 ### Wireframes
 
+Login
+
+![login](/docs/wireframes/1.login.png)
+
+Sign up
+
+![signup](/docs/wireframes/2.signup.png)
+
+Home View
+
+![chat](/docs/wireframes/3.homeView.png)
+
+Search Results
+
+![settings](/docs/wireframes/4.searchResults.png)
+
+Restaurant Show
+
+![groups](/docs/wireframes/5.restaurantShow.png)
+
+Restaurant Add
+
+![users](/docs/wireframes/6.restaurantAdd.png)
+
 
 ### Technologies & Technical Challenges
 
