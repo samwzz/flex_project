@@ -18,6 +18,10 @@ Using this app, users will be able to:
 
 ### Wireframes
 
+Screens
+
+![screens](/docs/wireframes/screens.png)
+
 Login
 
 ![login](/docs/wireframes/1.login.png)
