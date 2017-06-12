@@ -10,8 +10,8 @@ Celiac’s disease is a serious autoimmune disease, for which a 100% gluten-free
 
 Using this app, users will be able to:
 
-- [ ] Create new account, login, guest/demo login (user authentication)
-- [ ] See nearby gluten free restaurants using geolocation
+- [ ] Create new account, login (user authentication)
+- [ ] See nearby gluten free restaurants
 - [ ] Search for restaurants
 - [ ] Add restaurants to database
 - [ ] Restaurant rating (thumbs up/ thumbs down) via swiping
@@ -20,7 +20,7 @@ Using this app, users will be able to:
 
 Screens
 
-![screens](/docs/wireframes/screens.png)
+![screens](/docs/wireframes/Screens.png)
 
 Login
 
