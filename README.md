@@ -84,6 +84,11 @@ onLogoutPressed() {
   .then(() => this.props.navigation.navigate('Auth'));
 }
 ```
+
+### Maps
+
+![map](/docs/images/map.png)
+
 ### Likes/Dislikes
 Liking/disliking a restaurant will toggle your preference for that restaurant. When we receive a like, we query our database for the corresponding dislike (and vice versa), and removes it if it exists.
 
