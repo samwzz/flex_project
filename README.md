@@ -1,6 +1,8 @@
-# GlutenGo
+# GluteNo
 
-[GlutenGo][glutengo]
+[Demo][gluteno]
+
+[gluteno]: https://alnchen.github.io/gfam_demo_page/
 
 ## Summary
 
