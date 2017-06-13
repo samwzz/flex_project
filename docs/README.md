@@ -1,4 +1,4 @@
-# Find Me Better Gluten Free (See n' Like)
+# GluteNo
 
 ### Background
 
@@ -11,8 +11,8 @@ Celiac’s disease is a serious autoimmune disease, for which a 100% gluten-free
 Using this app, users will be able to:
 
 - [ ] Create new account, login (user authentication)
-- [ ] See nearby gluten free restaurants
-- [ ] Search for restaurants
+- [ ] See all gluten free restaurants
+- [ ] Search for restaurants on Google Places
 - [ ] Add restaurants to database
 - [ ] Restaurant rating (thumbs up/ thumbs down) via swiping
 
