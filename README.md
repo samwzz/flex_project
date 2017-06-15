@@ -1,4 +1,4 @@
-# GluteNo
+# Gluteno
 
 [Demo][gluteno]
 
@@ -10,7 +10,7 @@ More and more people are being diagnosed with [Celiac's disease](https://en.wiki
 
 #### Frameworks/Libraries/External API's
 
-GlutenGo uses:
+Gluteno uses:
 
 - Django REST Framework
 - PostgreSQL
