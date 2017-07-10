@@ -2,7 +2,13 @@
 
 [Demo][gluteno]
 
-[gluteno]: https://alnchen.github.io/gfam_demo_page/
+[Frontend][frontend]
+
+[Backend][backend]
+
+[gluteno]: http://gluteno.top
+[frontend]: https://github.com/samwzz/gluteno_frontend
+[backend]: https://github.com/yonglin2/flexbackend
 
 ## Summary
 
